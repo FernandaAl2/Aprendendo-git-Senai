@@ -1,4 +1,4 @@
-# Repositório de aprendizagem - Senai
+# Repositório de Aprendizagem - Senai
 Neste repositório  aprenderei a utilizar os comandos básicos do github, assim como as diferenças entre o repositório local para o remoto.
  Tambem verei um pouco sobre as branchs.
 
